@@ -1,4 +1,4 @@
-Age,Gender,Education_Level,Annual_Income,Employment_Years,Home_Ownership,Loan_Amount,Loan_Purpose,Loan_Interest_Rate,Loan_Percentage_Income,Credit_History_Length,Credit_Score,Previous_Loan_Defaults,Loan_Status
+person_age,person_gender,person_education,person_income,person_emp_exp,person_home_ownership,loan_amnt,loan_intent,loan_int_rate,loan_percent_income,cb_person_cred_hist_length,credit_score,previous_loan_defaults_on_file,loan_status
 22.0,female,Master,71948.0,0,RENT,35000.0,PERSONAL,16.02,0.49,3.0,561,No,1
 21.0,female,High School,12282.0,0,OWN,1000.0,EDUCATION,11.14,0.08,2.0,504,Yes,0
 25.0,female,High School,12438.0,3,MORTGAGE,5500.0,MEDICAL,12.87,0.44,3.0,635,No,1
